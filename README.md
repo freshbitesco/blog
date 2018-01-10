@@ -1,0 +1,2 @@
+# blog
+FreshBites Co Blog
